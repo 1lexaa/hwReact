@@ -8,8 +8,8 @@ import Recipe from "./components/Recipe.tsx";
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <>
     <App />
-    <Book />
-    <Music />
-    <Recipe />
+   <Book />
+   <Music />
+   <Recipe />
   </>
 );
